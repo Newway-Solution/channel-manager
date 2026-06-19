@@ -51,9 +51,9 @@ https://newwaysolution.vn/kenh-phan-phoi-ban-phong-vai-tro-va-tam-quan-trong-doi
 
 ## Tích hợp với
 
-* Newway PMS
-* Newway Ticket
-* Newway Golf
+* Newway PMS https://github.com/Newway-Solution/newway-pms
+* Newway Ticket https://github.com/Newway-Solution/newway-ticket
+* Newway Golf https://github.com/Newway-Solution/newway-golf
 
 Hotline: 0983 229 961
 
